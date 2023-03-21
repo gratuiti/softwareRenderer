@@ -1,0 +1,162 @@
+﻿D:\visual studio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: 中间目录(x64\Release\)包含从另一个项目(Hana-SoftwareRenderer.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\tgaimage.h(60,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(87,48): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(87,22): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(93,48): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(93,22): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(103,48): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(103,22): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(111,16): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(112,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(116,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(116,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(124,71): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(124,64): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\main.cpp(70,44): warning C4305: “初始化”: 从“double”到“float”截断
+  scene.cpp
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\tgaimage.h(60,54): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(87,48): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(87,22): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(93,48): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(93,22): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(103,48): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(103,22): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(111,16): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(112,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(116,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(116,38): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(124,71): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\IShader.h(124,64): warning C4244: “参数”: 从“T”转换到“int”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+  正在生成代码
+  3 of 681 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Hana-SoftwareRenderer.vcxproj -> C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\x64\Release\SoftwareRenderer.exe
+  子目录或文件 C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\x64\Release\assets 已经存在。
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\african_head\african_head.obj
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\african_head\african_head_diffuse.tga
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\african_head\african_head_nm.tga
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\african_head\african_head_nm_tangent.tga
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\african_head\african_head_read_me.txt
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\african_head\african_head_spec.tga
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\african_head\african_head_SSS.jpg
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\diablo3_pose\diablo3_pose.obj
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\diablo3_pose\diablo3_pose_diffuse.tga
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\diablo3_pose\diablo3_pose_nm.tga
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\diablo3_pose\diablo3_pose_nm_tangent.tga
+  C:\Users\Administrator\Desktop\graph\render\Hana2\Hana-SoftwareRenderer-main\Hana-SoftwareRenderer\assets\diablo3_pose\diablo3_pose_spec.tga
+  复制了 12 个文件
